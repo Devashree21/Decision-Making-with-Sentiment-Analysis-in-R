@@ -1,5 +1,7 @@
 # Decision-Making-with-Sentiment-Analysis-in-R
 
+(R version 4.3.3 and RStudio 2023.06.0 Build 421)
+
 Package Versions for the tutorial
 <br>
 dplyr==1.1.4
